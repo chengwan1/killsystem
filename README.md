@@ -79,11 +79,6 @@
 
 <img src="./docs/images/pressure_test_chart.png" alt="压力测试结果" width="100%" />
 
-### 系统监控
-集成 Spring Boot Admin 实现微服务健康监控，支持实时性能指标观测和异常告警。
-
-<img src="./docs/images/monitor_interface.png" alt="系统监控界面" width="100%" />
-
 ## 快速启动
 
 ### 环境准备
